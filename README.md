@@ -17,3 +17,4 @@ precision. See `ragas_scores.csv` for results.
 Python, LangChain, Chroma, OpenAI, RAGAS, Streamlit
 
 ## Live Demo
+[https://campaign-insights-rag-ucxmxdgeadfwd7xzurmgnl.streamlit.app/]
