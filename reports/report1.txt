@@ -1,0 +1,7 @@
+Q3 Search Campaign — Southeast Asia (UA x JAL)
+The Q3 paid search campaign targeting Southeast Asian markets underperformed
+against target by 18%. Click-through rate was strong at 4.2%, but conversion
+rate dropped to 1.1%, well below the 2.3% benchmark. Root cause analysis
+pointed to landing page load time issues on mobile, which accounted for an
+estimated 60% of the shortfall. A/B testing of a simplified mobile checkout
+flow is recommended for Q4.

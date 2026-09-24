@@ -1,0 +1,13 @@
+langchain==0.3.27
+langchain-core==0.3.86
+langchain-community==0.3.27
+langchain-text-splitters==0.3.11
+langchain-openai==0.3.28
+langchain-chroma==0.2.6
+chromadb==1.5.9
+pypdf==6.19.0
+python-dotenv==1.2.3
+streamlit==1.64.0
+ragas==0.3.1
+datasets==5.0.1
+pandas==3.0.6
