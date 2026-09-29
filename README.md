@@ -21,6 +21,10 @@ https://campaign-insights-rag-ucxmxdgeadfwd7xzurmgnl.streamlit.app/
 
 https://github.com/user-attachments/assets/da9dc825-0c38-4301-8955-22b164009bc0
 
+https://github.com/user-attachments/assets/87479896-19ac-41da-b51d-7ab36d4ddd42
+
+
+
 
 
 
