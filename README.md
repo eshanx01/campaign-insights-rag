@@ -19,6 +19,11 @@ Python, LangChain, Chroma, OpenAI, RAGAS, Streamlit
 ## Live Demo
 https://campaign-insights-rag-ucxmxdgeadfwd7xzurmgnl.streamlit.app/
 
-https://github.com/user-attachments/assets/01416c22-c224-4199-9ec6-2e73bb490962
+https://github.com/user-attachments/assets/da9dc825-0c38-4301-8955-22b164009bc0
+
+
+
+
+
 
 
